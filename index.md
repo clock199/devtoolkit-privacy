@@ -1,14 +1,14 @@
-# Privacy Policy for DevToolkit
+# Privacy Policy for Toolsmith
 
 *Last updated: April 2026*
 
 ## Overview
 
-DevToolkit is designed with privacy as a core principle. The app performs all operations locally on your device and does not collect, store, or transmit any personal data.
+Toolsmith is designed with privacy as a core principle. The app performs all operations locally on your device and does not collect, store, or transmit any personal data.
 
 ## Data Collection
 
-DevToolkit does not collect any personal information. We do not collect:
+Toolsmith does not collect any personal information. We do not collect:
 
 - Names, email addresses, or contact information
 - Location data
@@ -22,15 +22,15 @@ All text processing — including Base64 encoding, SHA256 hashing, URL encoding,
 
 ## In-App Purchases
 
-DevToolkit offers a one-time in-app purchase to unlock Power Tools. This transaction is handled entirely by Apple through the App Store. We do not have access to your payment information. For details on how Apple handles purchase data, please refer to Apple's Privacy Policy at apple.com/privacy.
+Toolsmith offers a one-time in-app purchase to unlock Power Tools. This transaction is handled entirely by Apple through the App Store. We do not have access to your payment information. For details on how Apple handles purchase data, please refer to Apple's Privacy Policy at apple.com/privacy.
 
 ## Third Party Services
 
-DevToolkit does not use any third party analytics, advertising, or tracking services.
+Toolsmith does not use any third party analytics, advertising, or tracking services.
 
 ## Children's Privacy
 
-DevToolkit does not knowingly collect any information from children under the age of 13.
+Toolsmith does not knowingly collect any information from children under the age of 13.
 
 ## Changes to This Policy
 
